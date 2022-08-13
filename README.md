@@ -17,7 +17,7 @@
 ### :shipit: About Me :
 I'm a back-end developer from Bogotá, Colombia, I've always been a technology enthusiast and when discovered the world of web programming was       fascinated by every new thing I learned.  
 In April 2022 I wanted to make a change in my life, I left the university to enter the world of web development, at that time I found ***Soy Henry***, a Bootcamp to become a full stack developer, where I learned many valuable things, and met amazing people.  
-I want to be able to show the world what I'm capable of doing :fire:.
+I want to show the world what I'm capable for :fire:.
 
 - :computer: I'm currently working on several projects with Node.js and React.js to improve and expand my knowledge
 - :seedling: Learning everything related to Python and other JavaScript libraries like React Native
@@ -41,6 +41,7 @@ I want to be able to show the world what I'm capable of doing :fire:.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" alt="Less" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku" width="60" height="60"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="60" height="60"/>&nbsp;
 </div>
