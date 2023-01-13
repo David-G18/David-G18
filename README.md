@@ -15,7 +15,7 @@
 </div>
 
 ### :shipit: About Me :
-I'm a back-end developer from Bogotá, Colombia, I've always been a technology enthusiast and when discovered the world of web programming was       fascinated by every new thing I learned.  
+I'm a web developer from Bogotá, Colombia, I've always been a technology enthusiast and when discovered the world of web programming was       fascinated by every new thing I learned.  
 In April 2022 I wanted to make a change in my life, I left the university to enter the world of web development, at that time I found ***Soy Henry***, a Bootcamp to become a full stack developer, where I learned many valuable things, and met amazing people.  
 I want to show the world what I'm capable for :fire:.
 
